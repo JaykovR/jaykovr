@@ -1,4 +1,4 @@
 - Hi. I'm **Jaykov**
 - 23 years old
-- I'm mostly interested in ML, BCI.
+- I'm mostly interested in ML, BCI and Game Development. 
 - I'm a university student currently studying Computer Science; I trying to get more hands-on experience currently
