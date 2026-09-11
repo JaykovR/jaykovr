@@ -1,5 +1,3 @@
-This is from a workshop. - Self Introduction.
-
 - Hi. I'm **Jaykov**
 - 23 years old
 - I'm mostly interested in ML, BCI.
